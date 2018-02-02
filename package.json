@@ -1,0 +1,22 @@
+{
+  "name": "portal_noticias",
+  "version": "1.0.0",
+  "description": "Site de notícias",
+  "main": "noticias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffsales/curso-portal-noticias.git"
+  },
+  "author": "Felipe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ffsales/curso-portal-noticias/issues"
+  },
+  "homepage": "https://github.com/ffsales/curso-portal-noticias#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
